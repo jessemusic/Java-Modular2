@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java-modular2.iml" filepath="$PROJECT_DIR$/Java-modular2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/digital.innovation.one.jesse.core/digital.innovation.one.jesse.core.iml" filepath="$PROJECT_DIR$/digital.innovation.one.jesse.core/digital.innovation.one.jesse.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/digital.innovation.one.jesse.utils/digital.innovation.one.jesse.utils.iml" filepath="$PROJECT_DIR$/digital.innovation.one.jesse.utils/digital.innovation.one.jesse.utils.iml" />
     </modules>
   </component>
 </project>
